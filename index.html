@@ -101,6 +101,8 @@
     .dl-btn{padding:10px 0;margin:-10px 0;}
     .about-text p{font-size:13.5px;}
     .site-footer{flex-direction:column;align-items:flex-start;gap:8px;padding:26px 0 40px;font-size:10px;}
+    .site-footer__icp {color: inherit;text-decoration: none;}
+    .site-footer__icp:hover {text-decoration: underline;}
   }
   @media(max-width:380px){
     .wrap{padding:0 16px;}
@@ -128,7 +130,11 @@
   <div class="section-header"><h2 class="section-title">关于</h2><span class="section-num">ABOUT</span></div>
   <div class="about-text" data-bind="about"></div>
 </section>
-<footer class="site-footer wrap"><span>© 2026 妄司逸 · 保持简单</span><span>E-MAIL &amp; FEEDBACK WELCOME</span></footer>
+<footer class="site-footer wrap">
+  <span>© 2026 妄司逸 · 保持简单</span>
+  <span>E-MAIL &amp; FEEDBACK WELCOME</span>
+  <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">赣ICP备2026021358号-1</a>
+</footer>
 
 <script>
 (function () {
