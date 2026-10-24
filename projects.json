@@ -28,7 +28,7 @@
         },
         {
           "label": "下载最新版",
-          "url": "https://github.com/flechazoyang-google/coc-war-tool/releases/download/v4.11.0/COCtools-v4.11.0.apk",
+          "url": "https://github.com/yghdev/coc-war-tool/releases/download/v4.11.0/COCtools-v4.11.0.apk",
           "download": true
         }
       ],
@@ -58,7 +58,7 @@
         },
         {
           "label": "下载最新版",
-          "url": "https://github.com/flechazoyang-google/tools/releases/download/v1.2.1/Toolbox-v1.2.1.apk",
+          "url": "https://github.com/yghdev/tools/releases/download/v1.2.1/Toolbox-v1.2.1.apk",
           "download": true
         }
       ]
